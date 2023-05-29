@@ -1,6 +1,19 @@
-### Hi there 👋
+<!-- [![website](pfp.png)](https://sbrstrkkdwmdr.github.io/sbr-web/) -->
 
-![https://sbrstrkkdwmdr.github.io/sbr-web/](pfp.png)
+<a href="https://sbrstrkkdwmdr.github.io/sbr-web/" alt="website">
+<img src="bgbg.png" width="75%" height="75%">
+</a>
+
+# I'm saber.
+yeah.
+
+I play osu and code sometimes
+
+<a href="https://sbrstrkkdwmdr.github.io/sbr-web/" alt="website">
+<img src="pfp.png" width="50%" height="50%">
+</a>
+
+thanks to [axololtle](https://twitter.com/Axololtle/status/1633411056679927809) for the drawing 
 
 <!--
 **sbrstrkkdwmdr/sbrstrkkdwmdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
