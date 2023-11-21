@@ -4,10 +4,7 @@
 <img src="bgbg.png" width="75%" height="75%">
 </a>
 
-# I'm saber.
-yeah.
-
-I play osu and code sometimes
+ᗜ˰ᗜ ᗜ_ᗜ ᗜ‿ᗜ ᗜωᗜ ᗜˬᗜ
 
 <a href="https://sbrstrkkdwmdr.github.io/sbr-web/" alt="website">
 <img src="pfp.png" width="50%" height="50%">
