@@ -6,12 +6,6 @@
 
 ᗜ˰ᗜ ᗜ_ᗜ ᗜ‿ᗜ ᗜωᗜ ᗜˬᗜ
 
-<a href="https://sbrstrkkdwmdr.github.io/sbr-web/" alt="website">
-<img src="pfp.png" width="50%" height="50%">
-</a>
-
-thanks to [axololtle](https://twitter.com/Axololtle/status/1633411056679927809) for the drawing 
-
 <!--
 **sbrstrkkdwmdr/sbrstrkkdwmdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
