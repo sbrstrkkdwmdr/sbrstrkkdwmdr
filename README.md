@@ -1,7 +1,8 @@
 <!-- [![website](pfp.png)](https://sbrstrkkdwmdr.github.io/sbr-web/) -->
 <div align="center">
   
-<a href="https://sbrstrkkdwmdr.github.io/" alt="website">
+<a href="https://sbrstrkkdwmdr.me/" alt="website">
+  website
 <img src="bgbg.png" width="75%" height="75%">
 </a>
 
