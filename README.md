@@ -1,15 +1,7 @@
 <!-- [![website](pfp.png)](https://sbrstrkkdwmdr.github.io/sbr-web/) -->
 <div align="center">
   
-<a href="https://sbrstrkkdwmdr.me/" alt="website">
-  website
-<img src="bgbg.png" width="75%" height="75%">
-</a>
+[![website](bgbg.png)]([https://sbrstrkkdwmdr.github.io/sbr-web/](https://sbrstrkkdwmdr.me/bcbec4d1a29a89b3feb63416661899a8))
 
 ᗜ˰ᗜ ᗜ_ᗜ ᗜ‿ᗜ ᗜωᗜ ᗜˬᗜ
-
-![sbrstrkkdwmdr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrstrkkdwmdr&theme=radical&show_icons=true&hide_border=true&layout=compact&exclude_repo=cos20007&title_color=c3e88d&text_color=B2CCD6&bg_color=45,26262C,15181B)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbrstrkkdwmdr&repo=ssob)](https://github.com/sbrstrkkdwmdr/ssob)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbrstrkkdwmdr&repo=weatherAppTauri)](https://github.com/sbrstrkkdwmdr/weatherAppTauri)
 </div>
